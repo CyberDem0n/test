@@ -37,9 +37,9 @@ body:
   attributes:
     label: Patroni/PostgreSQL/DCS version (please run commands below)
     value: |
-      -   Patroni version:
-      -   PostgreSQL version:
-      -   DCS (and its version):
+      -   Patroni version: 
+      -   PostgreSQL version: 
+      -   DCS (and its version): 
   validations:
     required: true
 
