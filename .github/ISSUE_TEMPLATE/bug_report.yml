@@ -85,7 +85,7 @@ body:
     label: Have you tried to use GitHub issue search?
     description: Maybe there is already a similar issue solved.
     options:
-      - label: Yes
+      - label: 'Yes'
   validations:
     required: true
 
