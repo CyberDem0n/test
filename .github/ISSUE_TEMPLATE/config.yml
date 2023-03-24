@@ -1,6 +1,5 @@
 blank_issues_enabled: false
 contact_links:
 - name: Question
-  url: https://postgresteam.slack.com/archives/C9XPYG92A
-  about: |
-    Please ask questions about Patroni on Postgres Slack. Invitation link: https://join.slack.com/t/postgresteam/shared_invite/zt-1qj14i9sj-E9WqIFlvcOiHsEk2yFEMjA
+  url: https://join.slack.com/t/postgresteam/shared_invite/zt-1qj14i9sj-E9WqIFlvcOiHsEk2yFEMjA
+  about: Please ask questions on Postgres Slack #patroni channel.
