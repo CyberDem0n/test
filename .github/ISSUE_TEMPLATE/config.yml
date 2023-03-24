@@ -3,5 +3,5 @@ contact_links:
 - name: Question
   url: https://postgresteam.slack.com/archives/C9XPYG92A
   about: |
-    Please ask question about Patroni on PostgreSQL Slack.
+    Please ask question about Patroni on PostgreSQL Slack.<br>
     Invitation link to Postgres workspace: https://join.slack.com/t/postgresteam/shared_invite/zt-1qj14i9sj-E9WqIFlvcOiHsEk2yFEMjA"
